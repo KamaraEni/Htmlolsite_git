@@ -1,0 +1,44 @@
+body {
+  background-color: #CD5C5C;
+
+}
+h1{
+  color: #FFFFFF;
+  font-family: 'Londrina Shadow';
+  font-size: 100px;
+  position: relative;
+  margin: 0 auto;
+}
+ul {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  color: #000000;
+  font-weight: bolder;
+  text-align: center;
+  font-family: 'Yatra One';
+
+}
+
+li{
+  display: inline;
+  padding: 0px 20px 0px 20px;
+}
+
+
+h2{
+  color: #FFFFFF;
+  font-family: 'Londrina Shadow';
+  font-size: 80px;
+}
+
+h3{
+  color: #FFFFFF;
+  font-family: 'Londrina Shadow';
+  font-size: 60px;
+  margin:0;
+}
+p{
+  margin: 0;
+  font-style: italic;
+  font-weight: bolder;
+}
